@@ -1,0 +1,2 @@
+# Compornent_page_mainVisual-standart
+メインビジュアルコンポーネント：スタンダート
