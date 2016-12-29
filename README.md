@@ -22,17 +22,17 @@
 　│　└ bootstrap.min.js … Bootstrapの標準JS   
 　│    
 　├ [wordpress] … Wordpress対応用  
-　│　├ [css] … サイトで使用するCSSファイル
-　│　│  ├ bootstrap.min.css … Bootstrapの標準CSS
-　│　│  ├ common.css … グローバルナビゲーションCSS 
-　│　│  └ top.css …  メインビジュアル用CSS 
+　│　├ [css] … サイトで使用するCSSファイル  
+　│　│  ├ bootstrap.min.css … Bootstrapの標準CSS  
+　│　│  ├ common.css … グローバルナビゲーションCSS  
+　│　│  └ top.css …  メインビジュアル用CSS  
 　│　│     
-　│　├ [js] … サイトで使用するJavaScriptファイル 
-　│　│  └ bootstrap.min.js … Bootstrapの標準JS 
-　│　│
-　│　├ footer.php … フッター共通パーツ 
-　│　├ functions.php … 外部ファイル出し訳 
-　│　├ header.php … ヘッダー共通パーツ 
-　│　└ index.php … メインビジュアル
-　│
+　│　├ [js] … サイトで使用するJavaScriptファイル  
+　│　│  └ bootstrap.min.js … Bootstrapの標準JS  
+　│　│  
+　│　├ footer.php … フッター共通パーツ  
+　│　├ functions.php … 外部ファイル出し訳  
+　│　├ header.php … ヘッダー共通パーツ  
+　│　└ index.php … メインビジュアル  
+　│  
 　└ index.html
